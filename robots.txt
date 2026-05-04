@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thorne-basic-v7.example/sitemap.xml
